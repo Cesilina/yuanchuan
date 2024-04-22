@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="zhangxiaoning@10.11.44.70:22">
+    <serverData>
+      <paths name="zhangxiaoning@10.101.44.16:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhangxiaoning@10.11.44.70:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/.vscode" />
+            <excludedPath path="/__pycache__" />
+            <excludedPath path="/classify/__pycache__" />
+            <excludedPath path="/data/train" />
+            <excludedPath path="/data/samples" />
+            <excludedPath path="/data/raw" />
+            <excludedPath path="/ge2e_simcse_retrieval/__pycache__" />
+            <excludedPath path="/lib" />
+            <excludedPath path="/model" />
+            <excludedPath path="/ngram_retrieval/__pycache__" />
+            <excludedPath path="/result" />
+            <excludedPath path="/retrieval/__pycache__" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="zj@10.11.44.3:22">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
